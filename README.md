@@ -28,3 +28,10 @@ https://grouplens.org/datasets/movielens/
 
 vm 실행후 http://localhost:1080 접속 
 
+### UI   
+  
+여기서 hive view 에 들어가서 ml100k 파일 upload 해서 여러가지를 할수있음
+
+
+### COMMAND LINE 
+
