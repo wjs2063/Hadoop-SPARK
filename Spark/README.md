@@ -24,3 +24,6 @@ Reduce : 집계
                 확장성 높음 (노드 + Disk)           RAM 에 의존 확장성 낮음
       
       
+
+
+공식문서 : https://spark.apache.org/
